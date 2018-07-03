@@ -1,5 +1,5 @@
 {
-  "name": "nytreact-mern-web-scraper",
+  "name": "mern-web-scraper",
   "version": "1.0.0",
   "description": "A full MERN stack app for scraping news from the New York Times",
   "main": "server.js",
